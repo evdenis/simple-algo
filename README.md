@@ -1,0 +1,2 @@
+# simple-algo
+Educational repository.
