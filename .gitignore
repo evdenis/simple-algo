@@ -16,6 +16,11 @@
 *.gch
 *.pch
 
+# Verification Temp Files
+*.pp.c
+*.pp.h
+*.jessie
+
 # Libraries
 *.lib
 *.a
